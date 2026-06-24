@@ -9,6 +9,7 @@
 # print(num1 <= num2) #Menor ou igual a
 
 #para dirigir a pessoa precisa ser maior que 18 anos de idade e ter carteira de motorista
+
 #-----------------------------------------------------------------------------------------
 # idade = int(input("Digite a sua idade: "))
 # if idade <= 17:
@@ -23,6 +24,7 @@
 #     idade = int(input(' Qual é a sua idade lindao?'))
 #     carteira = Trueverificador = idade >= 18 and carteira
 #     print(verificador)
+
 #--------------------------------------------------
 usuario = input("Digite o seu nome de usuário: ")
 senha = input("Digite a sua senha: ")
