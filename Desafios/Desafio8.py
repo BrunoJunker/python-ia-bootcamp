@@ -15,8 +15,8 @@ while ops != 4:
             print("Saldo insuficiente")
         else:
             print("saque realizado")
-            
             print("saldo restante: R$", saldo - valor_saque)
+            saldo = saldo - valor_saque
             
     elif ops == 3:
         deposito = int(input("Digite o valor para deposito: "))
