@@ -14,4 +14,4 @@ aluno = {
     'idade': input('idade do Aluno: '),
     'nota': input('Nota do Aluno: ')
 }
-print(aluno)
+print(f"{aluno['nome']} tem {aluno['idade']} anos de idade e tirou uma nota  {aluno['nota']}.")
